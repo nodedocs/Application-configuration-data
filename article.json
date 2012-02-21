@@ -8,5 +8,8 @@
 		  "url": "https://github.com/avianflu"
     }
   ],
-  "difficulty": 1
+  "difficulty": 3,
+  "categories": [
+    ["File System"]
+  ]
 }
